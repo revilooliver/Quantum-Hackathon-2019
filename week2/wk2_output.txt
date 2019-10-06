@@ -1,0 +1,7 @@
+without ancilla qubit:
+10
+{"u3": 16, "cx": 2, "measure": 2}
+
+with ancilla qubit:
+110
+{"u3": 26, "cx": 7, "measure": 3}
